@@ -14,6 +14,12 @@ https://university.dynatrace.com/?_ga=2.197632108.2100639540.1531627510-16004640
 
 https://university.dynatrace.com/certification/dynatrace
 
+## Twitter account: 
+
+https://twitter.com/Dynatrace
+
+
+
 
 
 
