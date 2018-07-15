@@ -19,7 +19,13 @@ https://university.dynatrace.com/certification/dynatrace
 https://twitter.com/Dynatrace
 
 
+## LinkedIn:
 
+https://www.linkedin.com/company/dynatrace/
+
+## You Tube: 
+
+https://www.youtube.com/c/dynatrace
 
 
 
