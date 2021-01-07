@@ -27,5 +27,9 @@ https://www.linkedin.com/company/dynatrace/
 
 https://www.youtube.com/c/dynatrace
 
+# Resourses:
+
+[Get to Know Dynatrace January 7, 2021](https://www.linkedin.com/video/live/urn:li:ugcPost:6753052739846111233/)
+
 
 
